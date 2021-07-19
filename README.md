@@ -56,4 +56,4 @@ A diagram is like a map and helps us understand which entities we are going to w
 [Download MySQL](https://dev.mysql.com/downloads/workbench/)
 
 # Information
-For more information [Patzi DB Platzi](https://platzi.com/clases/bd/)
+For more information [Platzi DB Course](https://platzi.com/clases/bd/)
