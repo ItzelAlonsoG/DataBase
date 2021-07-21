@@ -7,6 +7,7 @@
  - Introduction
  - Repository
  - Install
+ - Run code
  - Information
 
 ## Introduction
@@ -54,6 +55,30 @@ A diagram is like a map and helps us understand which entities we are going to w
 # Install
 
 [Download MySQL](https://dev.mysql.com/downloads/workbench/)
+
+- Execute the file and select version 8.0 select the default version and install the program.
+
+<div><img src="https://github.com/ItzelAlonsoG/DataBase/blob/main/DataBase1.PNG" width= "100%"></div>
+
+# Run code
+
+1. Download this repository.
+2. Open MySQL Workbrench, then enter in your SQL connection.
+
+<div><img src="https://github.com/ItzelAlonsoG/DataBase/blob/main/DataBase2.PNG" width= "100%"></div>
+
+3. Click on Files and select Open SQL Script and select **creacionAnimePlatzi**.
+
+<div><img src="https://github.com/ItzelAlonsoG/DataBase/blob/main/DataBase3.PNG" width= "80%"></div>
+<div><img src="https://github.com/ItzelAlonsoG/DataBase/blob/main/DataBase4.PNG" width= "100%"></div>
+
+4. Select all the script with **Ctrl+Alt** and run the script.
+
+<div><img src="https://github.com/ItzelAlonsoG/DataBase/blob/main/DataBase5.PNG" width= "100%"></div>
+
+5. You will have the DB **animeplatzi** and all the tables created.
+
+6. Then open the file names **cargainicialAnimePlatzi** and repeat the steps this files is to insert the data in the tables.
 
 # Information
 For more information [Platzi DB Course](https://platzi.com/clases/bd/)
